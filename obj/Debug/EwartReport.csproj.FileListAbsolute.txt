@@ -1,0 +1,7 @@
+D:\Desktop\EwartReport\bin\Debug\EwartReport.exe.config
+D:\Desktop\EwartReport\bin\Debug\EwartReport.exe
+D:\Desktop\EwartReport\bin\Debug\EwartReport.pdb
+D:\Desktop\EwartReport\obj\Debug\EwartReport.csprojAssemblyReference.cache
+D:\Desktop\EwartReport\obj\Debug\EwartReport.csproj.CoreCompileInputs.cache
+D:\Desktop\EwartReport\obj\Debug\EwartReport.exe
+D:\Desktop\EwartReport\obj\Debug\EwartReport.pdb
