@@ -17,3 +17,5 @@ Via visual studio:
 5. Open the report.
 
 ![alt text](https://i.imgur.com/f4BboCU.png)
+
+Hi, looking to know if this was ever working? Looking to generate a report like the screenshot above but seems a lot of the project is missing?
